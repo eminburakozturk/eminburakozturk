@@ -1,6 +1,6 @@
 # Merhaba, ben Emin Burak Öztürk 👋
 
-**Balıkesir Üniversitesi · Yapay Zeka Operatörlüğü (2. sınıf)**
+**Balıkesir Üniversitesi · Yapay Zeka Operatörlüğü (2. sınıf)**  
 Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri üzerine çalışıyorum. Yapay zekayı; maliyet, emisyon, risk ve sağlık gibi sahada ölçülebilen problemleri çözmek için kullanıyorum.
 
 > 🎯 **Şubat – Haziran 2027** döneminde Ankara veya Balıkesir'de tam zamanlı **iş yeri eğitimi (staj)** fırsatı arıyorum.
@@ -23,10 +23,10 @@ Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri 
 
 ## 🛠️ Yetkinlikler
 
-**Diller:** Python · C++ (Arduino) · Dart · TypeScript
-**Makine öğrenmesi:** scikit-learn · XGBoost · CatBoost · LightGBM · SHAP · Bayes optimizasyonu · olasılık kalibrasyonu
-**Uygulama & web:** FastAPI · Next.js · PySide6 · Flutter
-**Üretken YZ:** Gemini API · prompt mühendisliği · çoklu ajan sistemleri
+**Diller:** Python · C++ (Arduino) · Dart · TypeScript  
+**Makine öğrenmesi:** scikit-learn · XGBoost · CatBoost · LightGBM · SHAP · Bayes optimizasyonu · olasılık kalibrasyonu  
+**Uygulama & web:** FastAPI · Next.js · PySide6 · Flutter  
+**Üretken YZ:** Gemini API · prompt mühendisliği · çoklu ajan sistemleri  
 **Gömülü & IoT:** ESP32 · MPU6050 · GPS
 
 ## 🎓 Sertifikalar
