@@ -35,8 +35,8 @@ Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri 
 - [Google Prompting Essentials](https://coursera.org/verify/specialization/WG79845XCRKO) · Google / Coursera
 - [AI Foundations for Everyone](https://coursera.org/verify/specialization/WBN2O022O1VO) · IBM / Coursera
 - [Google Workspace with Gemini](https://coursera.org/verify/specialization/BQA98PZSEMFM) · Google Cloud / Coursera
-- [Yapay Zeka Uzmanlık Eğitimi](https://drive.google.com/drive/folders/1nTN8nEx34Xw8EAWjaAjkeN8RbJ0zeEZ0?usp=sharing) · Balıkesir Ticaret Odası & Doğu Marmara ABİGEM
-- [Yapay Zeka Workshop (6 saat)](https://drive.google.com/drive/folders/160KkWWSToLgFSWckuiylx325dnRM-HAx?usp=sharing) · Ankara Büyükşehir Belediyesi
+- [Yapay Zeka Uzmanlık Eğitimi](https://drive.google.com/file/d/16qZC0SjZZpZd3qvgUvzaWJCCSmfztjHs/view?usp=sharing) · Balıkesir Ticaret Odası & Doğu Marmara ABİGEM
+- [Yapay Zeka Workshop (6 saat)](https://drive.google.com/file/d/1MAwFTDDUWCrEGcPzOwcaCilnR2IuZ6Ro/view?usp=sharing) · Ankara Büyükşehir Belediyesi
 
 **Programlar:** Türkiye Siber Vatan 2027 · Dijital Üniversite Platformu (Yazılım Geliştirme + Makine Öğrenmesi) · Deneyap Teknoloji Atölyeleri
 
