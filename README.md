@@ -3,6 +3,10 @@
 **Balıkesir Üniversitesi · Yapay Zeka Operatörlüğü (2. sınıf)**  
 Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri üzerine çalışıyorum. Yapay zekayı; maliyet, emisyon, risk ve sağlık gibi sahada ölçülebilen problemleri çözmek için kullanıyorum.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emin%20Burak%20%C3%96zt%C3%BCrk-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emin-burak-%C3%B6zt%C3%BCrk-85a674395/)
+[![CV](https://img.shields.io/badge/CV-PDF%20indir-2ea44f?logo=adobeacrobatreader&logoColor=white)](Emin_Burak_Ozturk_CV.pdf)
+[![E-posta](https://img.shields.io/badge/E--posta-eminburak1410%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:eminburak1410@gmail.com)
+
 > 🎯 **Şubat – Haziran 2027** döneminde Ankara veya Balıkesir'de tam zamanlı **iş yeri eğitimi (staj)** fırsatı arıyorum.
 
 ---
@@ -23,6 +27,19 @@ Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri 
 
 ## 🛠️ Yetkinlikler
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Qt](https://img.shields.io/badge/PySide6-41CD52?logo=qt&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?logo=googlegemini&logoColor=white)
+![Arduino](https://img.shields.io/badge/ESP32%20%2F%20Arduino-00878F?logo=arduino&logoColor=white)
+
+
 **Diller:** Python · C++ (Arduino) · Dart · TypeScript  
 **Makine öğrenmesi:** scikit-learn · XGBoost · CatBoost · LightGBM · SHAP · Bayes optimizasyonu · olasılık kalibrasyonu  
 **Uygulama & web:** FastAPI · Next.js · PySide6 · Flutter  
@@ -42,4 +59,6 @@ Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri 
 
 ## 📫 İletişim
 
-✉️ eminburak1410@gmail.com
+✉️ eminburak1410@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/emin-burak-%C3%B6zt%C3%BCrk-85a674395/)  
+📄 [CV (PDF)](Emin_Burak_Ozturk_CV.pdf)
