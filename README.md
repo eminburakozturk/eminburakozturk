@@ -15,6 +15,7 @@ Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri 
 
 | Proje | Ne yapıyor? | Teknolojiler |
 |---|---|---|
+| **[Tracera](https://github.com/eminburakozturk/tracera)** | Çıplak baskılı devre kartlarında 6 kusur tipini tespit eden ve her kararı doğrulanmış bir LayerCAM ısı haritasıyla açıklayan sistem; web, Windows ve Android'de çalışır · [canlı demo](https://huggingface.co/spaces/ebboo/tracera-web) | PyTorch · YOLO11 · OpenVINO · TensorRT · ONNX Runtime Web · React · Tauri |
 | **[AeroVantage](https://github.com/eminburakozturk/aerovantage)** | Rüzgar santrallerinde üretim tahmin sapmasından doğan EPİAŞ dengesizlik maliyetini öngören karar destek platformu | Python · FastAPI · Next.js · XGBoost · Gemini |
 | **[CarbonDelta](https://github.com/ismail-aslann/carbondelta)** | Fabrikalardaki esnek yüklerin saatini kaydırmanın şebeke karbon emisyonuna etkisini hesaplayan çevrimdışı uygulama (2 kişilik ekip; Android sürümü bana ait) | Python · PySide6 · Flutter · Gemini |
 | **[RouteCost-XAI](https://github.com/eminburakozturk/routecost-xai)** | Bir istemin pahalı (GPT-4) mi ucuz (Mixtral) model mi gerektirdiğini tahmin eden maliyet duyarlı LLM yönlendirici | scikit-learn · CatBoost · XGBoost · LightGBM · SHAP |
@@ -28,12 +29,16 @@ Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri 
 ## 🛠️ Yetkinlikler
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?logo=intel&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Qt](https://img.shields.io/badge/PySide6-41CD52?logo=qt&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?logo=googlegemini&logoColor=white)
@@ -42,7 +47,9 @@ Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri 
 
 **Diller:** Python · C++ (Arduino) · Dart · TypeScript  
 **Makine öğrenmesi:** scikit-learn · XGBoost · CatBoost · LightGBM · SHAP · Bayes optimizasyonu · olasılık kalibrasyonu  
-**Uygulama & web:** FastAPI · Next.js · PySide6 · Flutter  
+**Bilgisayarlı görü:** YOLO11 · LayerCAM / Grad-CAM · OpenCV  
+**Uç cihaz ve dağıtım:** OpenVINO INT8 · TensorRT FP16 · ONNX Runtime Web (WebGPU) · Tauri 2 · Hugging Face Spaces · GitHub Actions  
+**Uygulama & web:** FastAPI · React · Next.js · PySide6 · Flutter  
 **Üretken YZ:** Gemini API · prompt mühendisliği · çoklu ajan sistemleri  
 **Gömülü & IoT:** ESP32 · MPU6050 · GPS
 
