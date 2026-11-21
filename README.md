@@ -16,6 +16,7 @@ Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri 
 | Proje | Ne yapıyor? | Teknolojiler |
 |---|---|---|
 | **[Tracera](https://github.com/eminburakozturk/tracera)** | Çıplak baskılı devre kartlarında 6 kusur tipini tespit eden ve her kararı doğrulanmış bir LayerCAM ısı haritasıyla açıklayan sistem; web, Windows ve Android'de çalışır · [canlı demo](https://huggingface.co/spaces/ebboo/tracera-web) | PyTorch · YOLO11 · OpenVINO · TensorRT · ONNX Runtime Web · React · Tauri |
+| **[Citelex](https://github.com/eminburakozturk/citelex)** | Türk mevzuatı ve KVKK kararları üzerinde her cevabı madde düzeyinde kaynakla destekleyen, her gece kendini güncelleyen RAG asistanı; 50 soruda %88–90 doğru cevap, geçersiz atıf 0 · [canlı demo](https://89-168-74-245.sslip.io) | bge-m3 · BM25 · Qdrant · LangGraph · OpenTelemetry · Tauri · MCP |
 | **[AeroVantage](https://github.com/eminburakozturk/aerovantage)** | Rüzgar santrallerinde üretim tahmin sapmasından doğan EPİAŞ dengesizlik maliyetini öngören karar destek platformu | Python · FastAPI · Next.js · XGBoost · Gemini |
 | **[CarbonDelta](https://github.com/ismail-aslann/carbondelta)** | Fabrikalardaki esnek yüklerin saatini kaydırmanın şebeke karbon emisyonuna etkisini hesaplayan çevrimdışı uygulama (2 kişilik ekip; Android sürümü bana ait) | Python · PySide6 · Flutter · Gemini |
 | **[RouteCost-XAI](https://github.com/eminburakozturk/routecost-xai)** | Bir istemin pahalı (GPT-4) mi ucuz (Mixtral) model mi gerektirdiğini tahmin eden maliyet duyarlı LLM yönlendirici | scikit-learn · CatBoost · XGBoost · LightGBM · SHAP |
@@ -50,7 +51,7 @@ Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri 
 **Bilgisayarlı görü:** YOLO11 · LayerCAM / Grad-CAM · OpenCV  
 **Uç cihaz ve dağıtım:** OpenVINO INT8 · TensorRT FP16 · ONNX Runtime Web (WebGPU) · Tauri 2 · Hugging Face Spaces · GitHub Actions  
 **Uygulama & web:** FastAPI · React · Next.js · PySide6 · Flutter  
-**Üretken YZ:** Gemini API · prompt mühendisliği · çoklu ajan sistemleri  
+**Üretken YZ ve RAG:** hibrit arama (bge-m3 + BM25) · yeniden sıralama · atıf doğrulama · LangGraph · Qdrant · Gemini API · çoklu ajan sistemleri  
 **Gömülü & IoT:** ESP32 · MPU6050 · GPS
 
 ## 🎓 Sertifikalar
