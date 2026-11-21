@@ -1,7 +1,7 @@
 # Merhaba, ben Emin Burak Öztürk 👋
 
 **Balıkesir Üniversitesi · Yapay Zeka Operatörlüğü (2. sınıf)**  
-Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri üzerine çalışıyorum. Yapay zekayı; maliyet, emisyon, risk ve sağlık gibi sahada ölçülebilen problemleri çözmek için kullanıyorum.
+Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri üzerine projeler geliştiriyorum. Yapay zekayı en çok maliyet, emisyon, risk ve sağlık gibi sahada ölçülebilen problemlerde kullanmayı seviyorum.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emin%20Burak%20%C3%96zt%C3%BCrk-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emin-burak-%C3%B6zt%C3%BCrk-85a674395/)
 [![CV](https://img.shields.io/badge/CV-PDF%20indir-2ea44f?logo=adobeacrobatreader&logoColor=white)](Emin_Burak_Ozturk_CV.pdf)
@@ -15,8 +15,8 @@ Makine öğrenmesi, açıklanabilir yapay zeka (XAI) ve karar destek sistemleri 
 
 | Proje | Ne yapıyor? | Teknolojiler |
 |---|---|---|
-| **[Tracera](https://github.com/eminburakozturk/tracera)** | Çıplak baskılı devre kartlarında 6 kusur tipini tespit eden ve her kararı doğrulanmış bir LayerCAM ısı haritasıyla açıklayan sistem; web, Windows ve Android'de çalışır · [canlı demo](https://huggingface.co/spaces/ebboo/tracera-web) | PyTorch · YOLO11 · OpenVINO · TensorRT · ONNX Runtime Web · React · Tauri |
-| **[Citelex](https://github.com/eminburakozturk/citelex)** | Türk mevzuatı ve KVKK kararları üzerinde her cevabı madde düzeyinde kaynakla destekleyen, her gece kendini güncelleyen RAG asistanı; 50 soruda %88–90 doğru cevap, geçersiz atıf 0 · [canlı demo](https://89-168-74-245.sslip.io) | bge-m3 · BM25 · Qdrant · LangGraph · OpenTelemetry · Tauri · MCP |
+| **[Tracera](https://github.com/eminburakozturk/tracera)** | Baskı devre kartlarındaki 6 kusur tipini tespit eden ve her kararı LayerCAM ısı haritasıyla gösteren sistem. Web, Windows ve Android'de çalışıyor · [canlı demo](https://huggingface.co/spaces/ebboo/tracera-web) | PyTorch · YOLO11 · OpenVINO · TensorRT · ONNX Runtime Web · React · Tauri |
+| **[Citelex](https://github.com/eminburakozturk/citelex)** | İş hukuku ve KVKK sorularına kaynak göstererek cevap veren, kaynaklarını her gece kendisi güncelleyen RAG asistanı. Testteki 50 sorunun %88-90'ını doğru cevapladı, geçersiz atıf yapmadı · [canlı demo](https://89-168-74-245.sslip.io) | bge-m3 · BM25 · Qdrant · LangGraph · OpenTelemetry · Tauri · MCP |
 | **[AeroVantage](https://github.com/eminburakozturk/aerovantage)** | Rüzgar santrallerinde üretim tahmin sapmasından doğan EPİAŞ dengesizlik maliyetini öngören karar destek platformu | Python · FastAPI · Next.js · XGBoost · Gemini |
 | **[CarbonDelta](https://github.com/ismail-aslann/carbondelta)** | Fabrikalardaki esnek yüklerin saatini kaydırmanın şebeke karbon emisyonuna etkisini hesaplayan çevrimdışı uygulama (2 kişilik ekip; Android sürümü bana ait) | Python · PySide6 · Flutter · Gemini |
 | **[RouteCost-XAI](https://github.com/eminburakozturk/routecost-xai)** | Bir istemin pahalı (GPT-4) mi ucuz (Mixtral) model mi gerektirdiğini tahmin eden maliyet duyarlı LLM yönlendirici | scikit-learn · CatBoost · XGBoost · LightGBM · SHAP |
